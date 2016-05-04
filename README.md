@@ -11,3 +11,8 @@ Fourth Node 4 - 192.168.0.4 /all-in-one controller
 
 User/Pass: rack/password - root = sudo su -
 
+Running Ubuntu 14.0.4.4
+
+Installed using: https://github.com/openstack/openstack-ansible
+
+Branch: 12.0.10
