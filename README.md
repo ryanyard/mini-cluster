@@ -6,12 +6,12 @@ NUC Mini Cluster
 [More photos](https://goo.gl/photos/H7nQkzozF25g4oHs5)
 
 ## Contributors
-- Ryan Yard [@rackeryard](https://twitter.com/rackeryard)
-- Cody Bunch [@cody_bunch](https://twitter.com/cody_bunch)
-- Dale Bracey [@IRTermite](https://twitter.com/IRTermite)
-- Intel Person
-- Intel Person
-- Intel Person
+- Ryan Yard - Rackspace [@rackeryard](https://twitter.com/rackeryard)
+- Cody Bunch - Rackspace [@cody_bunch](https://twitter.com/cody_bunch)
+- Dale Bracey - Rackspace [@IRTermite](https://twitter.com/IRTermite)
+- John Woodburn - Intel
+- Raddaoui Ala - Intel
+- Intel
 
 ---
 
