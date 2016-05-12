@@ -32,9 +32,16 @@ Recruiting the help of a few other Rackers, the project was under way, and built
 ---
 
 ## Parts List
-- asdf
-- asdf
-- asdf
+- (x4) Intel® NUC barebone boards
+- (x3) USB Wifi Dongles
+- (x3) USB Flash Drives
+- (x1) ??? SSD ???
+- (x16) 4-40 1" HEX Standoffs (Male/Female)
+- (x16) 4-40 1/2" HEX Standoffs (Male/Female)
+- (x4) 4-40 HEX Nut
+- (x4) 4-40 1/4" Screws
+- (x2) 6" Jumpers (Female/Female)
+- (x4) Rubber Foot Pad
 
 ## Node Design
 
