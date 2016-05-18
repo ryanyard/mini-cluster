@@ -1,7 +1,7 @@
 # mini-cluster
 NUC Mini Cluster
 
-![NUC Cluster](https://lh3.googleusercontent.com/EQal5CEVaDAFLE3lsta2ftK2XPojeZLrLDeqqOqYc4001ZGAzNwrX_2JNZi8yp-e0QeXyRGYJAWrSAcanUWkG3QCOk_50dMrOa57FLz2_aU0W_8cS2Ll-k_YMJDMVMKplh_Bk3bTBjF8o-flN6iG7KDXCxqNtIRTQimZ-Tp-_coOLKiAcpnSTGAol5E75FhWHKeK-0NyptGnm2vPUI0gv4eamMQYmMoSX3oGsZU2KqKARWCamQeM5e-bsn3yQaaBPp_exOBjlex3VZT7MnlwJ_UeGTXLE_mPh2ev7T9Vxh_iM45QNliTwY59KyFu7K5n-tAPoBVih3EHga5FXM4KhBOvz3XSAb3W5kxmzcVcRQen-icX11j6UCbmPGEo7E-_Sq_ZA1IoFD2gFDJJOtqRynNLbskUDOSnf1j4mk7Am9awKwFzptr1MaItFHRs9Nhoi1zby5jhpBGSAPQq8qDixa4iHCEphguPyl2Fnb2n78Tw4a3U4ve_uGyDZa8osXHHho-eahHROMToDMO_XSdkHF2apZWCXu19B6TPatIwtMdTTnSE4PSykT0iNNV8jk4=w526-h542-no)
+![NUC Cluster](https://raw.githubusercontent.com/ryanyard/mini-cluster/master/images/NUCStack_v1.png)
 
 [More photos](https://goo.gl/photos/H7nQkzozF25g4oHs5)
 
