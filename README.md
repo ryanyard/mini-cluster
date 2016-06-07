@@ -1,7 +1,11 @@
 # mini-cluster
 NUC Mini Cluster
 
-![NUC Cluster](https://raw.githubusercontent.com/ryanyard/mini-cluster/master/images/NUCStack_v1.png)
+# No longer working out of this repo
+Moving all future contributions directly to the parent repo @ 
+[https://github.com/ryanyard/mini-cluster](https://github.com/ryanyard/mini-cluster)
+
+![NUC Cluster](https://lh3.googleusercontent.com/EQal5CEVaDAFLE3lsta2ftK2XPojeZLrLDeqqOqYc4001ZGAzNwrX_2JNZi8yp-e0QeXyRGYJAWrSAcanUWkG3QCOk_50dMrOa57FLz2_aU0W_8cS2Ll-k_YMJDMVMKplh_Bk3bTBjF8o-flN6iG7KDXCxqNtIRTQimZ-Tp-_coOLKiAcpnSTGAol5E75FhWHKeK-0NyptGnm2vPUI0gv4eamMQYmMoSX3oGsZU2KqKARWCamQeM5e-bsn3yQaaBPp_exOBjlex3VZT7MnlwJ_UeGTXLE_mPh2ev7T9Vxh_iM45QNliTwY59KyFu7K5n-tAPoBVih3EHga5FXM4KhBOvz3XSAb3W5kxmzcVcRQen-icX11j6UCbmPGEo7E-_Sq_ZA1IoFD2gFDJJOtqRynNLbskUDOSnf1j4mk7Am9awKwFzptr1MaItFHRs9Nhoi1zby5jhpBGSAPQq8qDixa4iHCEphguPyl2Fnb2n78Tw4a3U4ve_uGyDZa8osXHHho-eahHROMToDMO_XSdkHF2apZWCXu19B6TPatIwtMdTTnSE4PSykT0iNNV8jk4=w526-h542-no)
 
 [More photos](https://goo.gl/photos/H7nQkzozF25g4oHs5)
 
@@ -61,7 +65,17 @@ Recruiting the help of a few other Rackers, the project was under way, and built
 
 ## Assembly
 
-Some steps and stuff
+Open the package.
+
+Install onboard wifi card to each NUC Board.
+
+Install memory and drive cards to each NUC Board.
+
+Grab (x4) 1" HEX Standoffs, (x4) 1/2" HEX Standoffs, and one of the assembled NUC Boards. Insert the 1" standoff threaded male side through through the bottom of the board from the bottom. (The top of the board is the side with the heat sink fan.) Grab a 1/2" standoff and thread the female end on to the 1" standoff threads sticking through the board.
+
+Now, it may make sense to do the last step to all boards and then try and stick them all together, but due to the nature of sandwiching the standoffs to the board, that will not be possible. Next step is to grab (x4) more 1" standoffs and thread them on to the top of the 1/2" standoffs sticking out of the top of the board. and then stack another board on top of the now 1-1/2" long standoffs. Repeat these steps until you have a fully stacked NUC Stack (depends on how many nodes you are assembling).
+
+[Optional Step: We had discovered a way to press only one of the power buttons on the baords, and have them all power on and off at the same time. This is a pretty neat hack, but we are not certain of the long-term affects on the devices themselves, being connected this way. We made some jumpers that are spliced together to bridge the power pins on the boards. Pressing one button completes the circuit and sends power across these pins when connected. The following images show the wires we made, and how they connect. Note: These are connected in parralel, not series.]
 
 ## Installation
 
