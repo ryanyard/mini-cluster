@@ -49,19 +49,19 @@ All Parts
 (x4) Intel® NUC barebone boards
 ![NUC Boards](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124443.jpg?raw=true)
 
-(x3) USB Wifi Dongles
+(x3) USB Wifi Dongles 
 ![Wifi Card](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124538.jpg?raw=true)
 
-(x1) ??? SSD ???
+(x1) ??? SSD ??? 
 ![SSD](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124550.jpg?raw=true)
 
-(x16) 4-40 1" HEX Standoffs (Male/Female)
+(x16) 4-40 1" HEX Standoffs (Male/Female) 
 ![HEX Standoffs 1"](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_120129.jpg?raw=true)
 
-(x16) 4-40 1/2" HEX Standoffs (Male/Female)
+(x16) 4-40 1/2" HEX Standoffs (Male/Female) 
 ![HEX Standoffs 1/2"](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124532.jpg?raw=true)
 
-(x4) 4-40 HEX Nut
+(x4) 4-40 HEX Nut 
 ![Nuts](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124636.jpg?raw=true)
 
 Antenna
