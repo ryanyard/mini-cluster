@@ -43,6 +43,33 @@ Recruiting the help of a few other Rackers, the project was under way, and built
 - (x2) 6" Jumpers (Female/Female)
 - (x4) Rubber Foot Pad
 
+All Parts
+![NUC Layout](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_120010.jpg?raw=true)
+
+(x4) Intel® NUC barebone boards
+![NUC Boards](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124443.jpg?raw=true)
+
+(x3) USB Wifi Dongles
+![Wifi Card](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124538.jpg?raw=true)
+
+(x1) ??? SSD ???
+![SSD](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124550.jpg?raw=true)
+
+(x16) 4-40 1" HEX Standoffs (Male/Female)
+![HEX Standoffs 1"](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_120129.jpg?raw=true)
+
+(x16) 4-40 1/2" HEX Standoffs (Male/Female)
+![HEX Standoffs 1/2"](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124532.jpg?raw=true)
+
+(x4) 4-40 HEX Nut
+![Nuts](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124636.jpg?raw=true)
+
+Antenna
+![Antenna](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124704.jpg?raw=true)
+
+(x4) Rubber Feet
+![Rubber Feet](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124459.jpg?raw=true)
+
 ## Node Design
 
 - Intel NUC Barebone
@@ -61,15 +88,15 @@ Recruiting the help of a few other Rackers, the project was under way, and built
 
 ## Assembly
 
-Open the package.
+1. Open the package.
 
-Install onboard wifi card to each NUC Board.
+1. Install onboard wifi card to each NUC Board.
 
-Install memory and drive cards to each NUC Board.
+1. Install memory and drive cards to each NUC Board.
 
-Grab (x4) 1" HEX Standoffs, (x4) 1/2" HEX Standoffs, and one of the assembled NUC Boards. Insert the 1" standoff threaded male side through through the bottom of the board from the bottom. (The top of the board is the side with the heat sink fan.) Grab a 1/2" standoff and thread the female end on to the 1" standoff threads sticking through the board.
+1. Grab (x4) 1" HEX Standoffs, (x4) 1/2" HEX Standoffs, and one of the assembled NUC Boards. Insert the 1" standoff threaded male side through through the bottom of the board from the bottom. (The top of the board is the side with the heat sink fan.) Grab a 1/2" standoff and thread the female end on to the 1" standoff threads sticking through the board.
 
-Now, it may make sense to do the last step to all boards and then try and stick them all together, but due to the nature of sandwiching the standoffs to the board, that will not be possible. Next step is to grab (x4) more 1" standoffs and thread them on to the top of the 1/2" standoffs sticking out of the top of the board. and then stack another board on top of the now 1-1/2" long standoffs. Repeat these steps until you have a fully stacked NUC Stack (depends on how many nodes you are assembling).
+1. Now, it may make sense to do the last step to all boards and then try and stick them all together, but due to the nature of sandwiching the standoffs to the board, that will not be possible. Next step is to grab (x4) more 1" standoffs and thread them on to the top of the 1/2" standoffs sticking out of the top of the board. and then stack another board on top of the now 1-1/2" long standoffs. Repeat these steps until you have a fully stacked NUC Stack (depends on how many nodes you are assembling).
 
 [Optional Step: We had discovered a way to press only one of the power buttons on the baords, and have them all power on and off at the same time. This is a pretty neat hack, but we are not certain of the long-term affects on the devices themselves, being connected this way. We made some jumpers that are spliced together to bridge the power pins on the boards. Pressing one button completes the circuit and sends power across these pins when connected. The following images show the wires we made, and how they connect. Note: These are connected in parralel, not series.]
 
