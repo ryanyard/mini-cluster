@@ -15,6 +15,17 @@ NUC Mini Cluster
 
 ---
 
+## TOC
+1. [The Story](https://github.com/ryanyard/mini-cluster#the-story)
+2. [Parts List](https://github.com/ryanyard/mini-cluster#parts-list)
+3. [Node Design](https://github.com/ryanyard/mini-cluster#node-design)
+4. [Assembly](https://github.com/ryanyard/mini-cluster#assembly)
+5. [Installation](https://github.com/ryanyard/mini-cluster#installation)
+6. [Deployment](https://github.com/ryanyard/mini-cluster#deployment)
+7. [Access and Control](https://github.com/ryanyard/mini-cluster#access-and-control)
+
+---
+
 ## The Story
 
 The NUC Mini Cluster idea started years ago when a couple of Rackers in Rackspace Private Cloud wanted to put small test labs on their desks. The idea was approved, but priorities shifted and the project died. Have no fear... Yard is here! Years later, Ryan Yard took up the challenge to not only make the dream a reality, but planned to use them as prizes at OpenStack Summit | Austin 2016.
