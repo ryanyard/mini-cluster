@@ -43,45 +43,21 @@ Recruiting the help of a few other Rackers, the project was under way, and built
 ---
 
 ## Parts List
+(For pictures see: [Parts List Images](https://github.com/ryanyard/mini-cluster#parts-list-images) at the end)
+
 - (x4) [Intel® NUC NUC5i5MYBE Motherboards](http://www.logicsupply.com/nuc5i5mybe/): Sometimes these can be found on Amazon or other sites in bulk orders
-- (x8) [8GB Memory:](https://www.amazon.com/Crucial-Single-PC3-12800-204-Pin-CT8G3S160BM/dp/B008LTBLLY/ref=sr_1_2?ie=UTF8&qid=1465580834&sr=8-2&keywords=mt16ktf1g64hz-1g6e1) (2 each node)
+- (x8) [8GB Memory:](https://www.amazon.com/Crucial-Single-PC3-12800-204-Pin-CT8G3S160BM/dp/B008LTBLLY/ref=sr_1_2?ie=UTF8&qid=1465580834&sr=8-2&keywords=mt16ktf1g64hz-1g6e1) (2 each node) These you will see already installed in the images
 - (x4) [M.2 Mini Wifi Card](http://www.logicsupply.com/int-7260/): Intel 7260 AC Wi-Fi/Bluetooth M.2 Mini Card plus Bluetooth 4.0 LE
 INT-7260
  - {Optional Alternative: (x4) USB Wifi Dongles}
+- (x8) [Wifi Antenna](https://www.amazon.com/Pair-Antennas-Intel-18-5cm-Inches/dp/B0119ERBD4/ref=sr_1_2?ie=UTF8&qid=1465588662&sr=8-2&keywords=intel+7260+antenna): Two per wifi card
 - (x4) [M.2 SSD Drive](https://www.amazon.com/Patriot-PI240GSM280SSDR-Ignite-240gb-Internal/dp/B00X2YJUS4?ie=UTF8&*Version*=1&*entries*=0): Patriot PI240GSM280SSDR Ignite M2 240gb 2280 Sata Internal SSD
  - {Optional Alternative - (x4) USB Flash Drives}
 - (x16) [4-40 1" HEX Standoffs (Male-Female)](http://www.intertexelectronics.com/K8405-C-Male-Female-Standoff-Aluminum-4-40-X-1-Hex-100PK-P10481.aspx): Comes in 100 pack or singles. 100 pack is more economical for building many of these. 
 - (x16) [4-40 1/2" HEX Standoffs (Male-Female)](http://www.intertexelectronics.com/K8401-C-Male-Female-Standoff-Aluminum-4-40-X-12-Hex-100PK-P10479.aspx): Comes in 100 pack or singles. 100 pack is more economical for building many of these.
-- (x4) 4-40 1/4" Screws
-- (x4) Rubber Foot Pad
+- (x4) [4-40 1/4" Screws](http://www.intertexelectronics.com/Philmore-10-242-Steel-Binder-Head-Slotted-Screw-4-40-x-14-20-Pack-P9424.aspx)
+- (x4) [Rubber Foot Pad](http://www.intertexelectronics.com/Philmore-10-602-Tapered-Cylinder-Rubber-Foot-or-Bumper-12-Pack-P8802.aspx)
 - {Optional - (x2) Custom made 6" Jumpers (Female/Female)}
-
-All Parts
-![NUC Layout](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_120010.jpg?raw=true)
-
-(x4) Intel® NUC barebone boards
-![NUC Boards](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124443.jpg?raw=true)
-
-(x3) USB Wifi Dongles 
-![Wifi Card](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124538.jpg?raw=true)
-
-(x1) ??? SSD ??? 
-![SSD](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124550.jpg?raw=true)
-
-(x16) 4-40 1" HEX Standoffs (Male/Female) 
-![HEX Standoffs 1"](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_120129.jpg?raw=true)
-
-(x16) 4-40 1/2" HEX Standoffs (Male/Female) 
-![HEX Standoffs 1/2"](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124532.jpg?raw=true)
-
-(x4) 4-40 HEX Nut 
-![Nuts](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124636.jpg?raw=true)
-
-Antenna
-![Antenna](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124704.jpg?raw=true)
-
-(x4) Rubber Feet
-![Rubber Feet](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124459.jpg?raw=true)
 
 ## Node Design
 
@@ -126,3 +102,30 @@ Stuff and things, things and stuff
 ## Access and Control
 
 More things
+
+
+## Parts List Images
+
+All Parts
+![NUC Layout](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_120010.jpg?raw=true)
+
+(x4) Intel® NUC barebone boards
+![NUC Boards](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124443.jpg?raw=true)
+
+(x4) M.2 Mini Wifi Card
+![Wifi Card](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124538.jpg?raw=true)
+
+(x4) M.2 SSD Drive
+![SSD](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124550.jpg?raw=true)
+
+(x16) 4-40 1" HEX Standoffs (Male/Female) 
+![HEX Standoffs 1"](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_120129.jpg?raw=true)
+
+(x16) 4-40 1/2" HEX Standoffs (Male/Female) 
+![HEX Standoffs 1/2"](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124532.jpg?raw=true)
+
+Antenna
+![Antenna](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124704.jpg?raw=true)
+
+(x4) Rubber Feet
+![Rubber Feet](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_124459.jpg?raw=true)
