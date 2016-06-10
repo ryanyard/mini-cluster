@@ -43,16 +43,18 @@ Recruiting the help of a few other Rackers, the project was under way, and built
 ---
 
 ## Parts List
-- (x4) Intel® NUC barebone boards
-- (x3) USB Wifi Dongles
-- (x3) USB Flash Drives
-- (x1) ??? SSD ???
-- (x16) 4-40 1" HEX Standoffs (Male/Female)
-- (x16) 4-40 1/2" HEX Standoffs (Male/Female)
-- (x4) 4-40 HEX Nut
+- (x4) [Intel® NUC NUC5i5MYBE Motherboards](http://www.logicsupply.com/nuc5i5mybe/): Sometimes these can be found on Amazon or other sites in bulk orders
+- (x8) [8GB Memory:](https://www.amazon.com/Crucial-Single-PC3-12800-204-Pin-CT8G3S160BM/dp/B008LTBLLY/ref=sr_1_2?ie=UTF8&qid=1465580834&sr=8-2&keywords=mt16ktf1g64hz-1g6e1) (2 each node)
+- (x4) [M.2 Mini Wifi Card](http://www.logicsupply.com/int-7260/): Intel 7260 AC Wi-Fi/Bluetooth M.2 Mini Card plus Bluetooth 4.0 LE
+INT-7260
+ - {Optional Alternative: (x4) USB Wifi Dongles}
+- (x4) [M.2 SSD Drive](https://www.amazon.com/Patriot-PI240GSM280SSDR-Ignite-240gb-Internal/dp/B00X2YJUS4?ie=UTF8&*Version*=1&*entries*=0): Patriot PI240GSM280SSDR Ignite M2 240gb 2280 Sata Internal SSD
+ - {Optional Alternative - (x4) USB Flash Drives}
+- (x16) [4-40 1" HEX Standoffs (Male-Female)](http://www.intertexelectronics.com/K8405-C-Male-Female-Standoff-Aluminum-4-40-X-1-Hex-100PK-P10481.aspx): Comes in 100 pack or singles. 100 pack is more economical for building many of these. 
+- (x16) [4-40 1/2" HEX Standoffs (Male-Female)](http://www.intertexelectronics.com/K8401-C-Male-Female-Standoff-Aluminum-4-40-X-12-Hex-100PK-P10479.aspx): Comes in 100 pack or singles. 100 pack is more economical for building many of these.
 - (x4) 4-40 1/4" Screws
-- (x2) 6" Jumpers (Female/Female)
 - (x4) Rubber Foot Pad
+- {Optional - (x2) Custom made 6" Jumpers (Female/Female)}
 
 All Parts
 ![NUC Layout](https://github.com/ryanyard/mini-cluster/blob/master/images/20160505_120010.jpg?raw=true)
