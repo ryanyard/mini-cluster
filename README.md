@@ -91,13 +91,11 @@ INT-7260
 
 ## Installation
 
-Prerequisites
-
-Stuff
+(Need to build on this more... But, install Ubuntu 14.04 LTS on each node
 
 ## Deployment
 
-Stuff and things, things and stuff
+Deployment of OpenStack was built upon the instructions found [here - OpenStack-Ansible Developer Documentation Quick Start](http://docs.openstack.org/developer/openstack-ansible/developer-docs/quickstart-aio.html)
 
 ## Access and Control
 
